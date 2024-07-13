@@ -1,0 +1,6 @@
+[submodule "wolftech-store-client"]
+	path = wolftech-store-client
+	url = https://github.com/matheus-galdo/wolftech-store-client
+[submodule "wolftech-store-api"]
+	path = wolftech-store-api
+	url = https://github.com/matheus-galdo/wolftech-store-api
